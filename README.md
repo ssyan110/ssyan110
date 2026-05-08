@@ -37,36 +37,21 @@ My work sits at the intersection of:
 
 ## Curated toolkit: useful repos I follow
 
-These are not my projects — they are references I starred and use to track useful AI, automation, ML, and growth tools.
+These are not my projects — they are reference/toolkit repositories I starred for AI automation, ML/data science, content, growth, education, and business workflows.
 
-### AI agents and automation
+- [Organized starred repositories](./STARRED_REPOS.md) — categorized map of all starred repos, with quick navigation and use cases.
 
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — agent that grows with the user.
-- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) — AI browser-workflow automation.
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — runnable AI agent and RAG app examples.
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) — spec-driven development for AI coding assistants.
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) — code and document knowledge graphs for AI assistants.
+Main categories:
 
-### ML / LLM learning
-
-- [google-gemma/cookbook](https://github.com/google-gemma/cookbook) — Google Gemma model examples.
-- [unslothai/notebooks](https://github.com/unslothai/notebooks) — fine-tuning and RL notebooks.
-- [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) — Python data science reference.
-- [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) — ranked ML Python library list.
-- [keon/awesome-nlp](https://github.com/keon/awesome-nlp) — NLP resources.
-
-### Content, design, and growth engineering
-
-- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — marketing skills for AI agents.
-- [cporter202/automate-for-growth](https://github.com/cporter202/automate-for-growth) — content automation and growth workflows.
-- [browser-use/video-use](https://github.com/browser-use/video-use) — video editing with coding agents.
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — open-source demo/video tool.
-
-### Vietnam / business utility
-
-- [nclamvn/Viet-ERP](https://github.com/nclamvn/Viet-ERP) — open-source ERP for Vietnamese enterprises.
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) — convert Office files and documents to Markdown.
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) — free API directory.
+- AI agents & personal assistants
+- Agent skills, prompts & workflow systems
+- Code intelligence, repo understanding & spec-driven development
+- LLM apps, education agents & research automation
+- ML, data science & engineering learning
+- Model cookbooks, fine-tuning & LLM implementation
+- Media, design & content automation
+- Growth, marketing & social data
+- Business utilities, APIs, analytics & Vietnam references
 
 ## Current focus
 
